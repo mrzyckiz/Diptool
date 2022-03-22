@@ -1,0 +1,13 @@
+0.14 10.17 0.29 10.09 -35.08 8.29 39.19 100 100 40 69.8 608 -7.82 1.58 -5.99 2.33 -44.78 2.40 10.73
+
+
+
+
+
+Edit the parameters above in given order:
+dipole X + std; dipole y + std; dipole z + std; total dipole; membrane X size; membrane Y size; membrane Z size; APL; agent mass; agent dipole X + std; agent dipole Y + std; agent dipole Z + std; logP.
+
+PC	0.34 ± 11.29	−0.37 ± 11.39	1.65 ± 8.44	18.27 ± 2.32
+PG	0.14 ± 10.17	0.29 ± 10.09	−35.08 ± 8.29	39.19 ± 4.69
+
+

@@ -1,13 +1,14 @@
+<div align="right">
+  <img src="pics/diptool_logo.png" alt="logo" style="float:right; width:80px;">
+</div>
 # Diptool
 
-<div style="text-align:right">
-  <img src="pics/diptool_logo.png" alt="logo" style="float:right; width:50px;">
-</div>
+
 
  Diptool is a screening tool for a rapid determination of the antimicrobial agent affinity to various types of homogenous lipid membranes delivering particle trajectory visualization and free energy analysis. It's significantly faster than classical methods, reaching a one million-fold compared to the MD approach. 
  It provides a graphical user interface (GUI) with features for visualizing energy plots, calculating statistics, and running simulations with customizable parameters.
  
- <div style="text-align:center">
+ <div align="center">
   <img src="pics/diptool_gui.png" alt="GUI">
 </div>
  

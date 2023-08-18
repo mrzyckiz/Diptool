@@ -68,7 +68,7 @@ python diptool_gui.py
 
 An executable version of Diptool is available, which includes all the necessary libraries (all in one). 
 
-To run the executable, simply clone this repository and run **GUI.exe**. This eliminates the need to install Python, dependencies, or libraries separately, making it a convenient option for some users.
+To run the executable, simply clone this repository and run **Diptool.exe**. This eliminates the need to install Python, dependencies, or libraries separately, making it a convenient option for some users.
 
 ***Please note that the executable versions may take a moment to launch as they need to unpack all necessary components.***
 

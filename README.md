@@ -1,9 +1,15 @@
 # Diptool
 
+<div style="text-align:right">
+  <img src="pics/diptool_logo.png" alt="logo" style="float:right; width:50px;">
+</div>
+
  Diptool is a screening tool for a rapid determination of the antimicrobial agent affinity to various types of homogenous lipid membranes delivering particle trajectory visualization and free energy analysis. It's significantly faster than classical methods, reaching a one million-fold compared to the MD approach. 
  It provides a graphical user interface (GUI) with features for visualizing energy plots, calculating statistics, and running simulations with customizable parameters.
  
- ![GUI](pics/diptool_gui.png)
+ <div style="text-align:center">
+  <img src="pics/diptool_gui.png" alt="GUI">
+</div>
  
 
 ## Features
@@ -33,6 +39,7 @@ Throughout this process, five distinct files are created:
 - energy.txt: Presents the energy profile concerning the bilayer's normal in the Z direction.
 - energy_plot.csv: A histogram of energy profiles further for visualization purpose.
 
+Exemplary results can be found in the [`tests`](./tests/) folder. 
 
 ## Getting Started
 

@@ -2,6 +2,7 @@
 
  Diptool is a screening tool for a rapid determination of the antimicrobial agent affinity to various types of homogenous lipid membranes delivering particle trajectory visualization and free energy analysis. It's significantly faster than classical methods, reaching a one million-fold compared to the MD approach. 
  It provides a graphical user interface (GUI) with features for visualizing energy plots, calculating statistics, and running simulations with customizable parameters.
+ 
  ![GUI](pics/diptool_gui.png)
  
 
@@ -40,12 +41,14 @@ Throughout this process, five distinct files are created:
 2. Install the required dependencies by running:
 
 ```bash
-# pip install -r requirements.txt
+pip install -r requirements.txt
+```
 
 3. Launch Diptool by running:
 
 ```bash
 python diptool_gui.py
+```
 
 
 ### Requirements

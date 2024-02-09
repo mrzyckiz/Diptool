@@ -1,7 +1,7 @@
 # Diptool
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10641713.svg)](https://doi.org/10.5281/zenodo.10641713)
-[![DOI](https://doi.org/10.3390/ma14216455)]
+[![DOI](https://doi.org/10.3390/ma14216455)](https://doi.org/10.3390/ma14216455)
 
 <div align="right">
   <img src="pics/diptool_logo.png" alt="logo" style="float:right; width:100px;">

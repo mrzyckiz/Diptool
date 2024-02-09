@@ -1,8 +1,12 @@
 # Diptool
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10641713.svg)](https://doi.org/10.5281/zenodo.10641713)
+[![DOI](https://doi.org/10.3390/ma14216455)]
+
 <div align="right">
   <img src="pics/diptool_logo.png" alt="logo" style="float:right; width:100px;">
 </div>
+
 
  Diptool is a screening tool for a rapid determination of the antimicrobial agent affinity to various types of homogenous lipid membranes delivering particle trajectory visualization and free energy analysis. It's significantly faster than classical methods, reaching a one million-fold compared to the MD approach. 
  It provides a graphical user interface (GUI) with features for visualizing energy plots, calculating statistics, and running simulations with customizable parameters.
@@ -68,7 +72,7 @@ python diptool_gui.py
 
 An executable version of Diptool is available, which includes all the necessary libraries (all in one). 
 
-To run the executable, simply clone this repository and run **Diptool.exe**. This eliminates the need to install Python, dependencies, or libraries separately, making it a convenient option for some users.
+To run the executable, download Zenodo repository content, unpack and run **Diptool.exe**. This eliminates the need to install Python, dependencies, or libraries separately, making it a convenient option for some users.
 
 ***Please note that the executable versions may take a moment to launch as they need to unpack all necessary components.***
 

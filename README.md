@@ -66,7 +66,7 @@ python diptool_gui.py
 
 ```
 
-3a. (or) Run the Python script `diptool_arg.py` with the desired command-line arguments. For example, to specify the number of runs, use the `-runs X` flag, where `X` represents the desired number of Diptool runs.
+4. (or) Run the Python script `diptool_arg.py` with the desired command-line arguments. For example, to specify the number of runs, use the `-runs X` flag, where `X` represents the desired number of Diptool runs.
 
 
 ```bash

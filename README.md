@@ -84,7 +84,7 @@ python diptool_arg.py -runs 100
 
 An executable version of Diptool is available, which includes all the necessary libraries (all in one). 
 
-To run the executable, download Zenodo repository content, unpack and run **Diptool.exe**. This eliminates the need to install Python, dependencies, or libraries separately, making it a convenient option for some users.
+To run the executable, download [Zenodo](https://doi.org/10.5281/zenodo.10641713) repository content, unpack and run **Diptool.exe**. This eliminates the need to install Python, dependencies, or libraries separately, making it a convenient option for some users.
 
 ***Please note that the executable versions may take a moment to launch as they need to unpack all necessary components.***
 

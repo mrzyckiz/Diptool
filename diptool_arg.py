@@ -20,11 +20,11 @@ args = parser.parse_args()
 num_runs = args.runs
 
 # Use the number of runs 
-subprocess.call(('core/Diptool_engine_v2.14.exe')) 
+subprocess.call(('core/Diptool_engine_v2.15.exe')) 
 
 #definition of number of runs
 for i in range(num_runs):
-    subprocess.call(('core/Diptool_engine_v2.14i.exe'))
+    subprocess.call(('core/Diptool_engine_v2.15i.exe'))
 
 
 

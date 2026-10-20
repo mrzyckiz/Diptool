@@ -121,6 +121,11 @@ Ensure that the parameters are correctly filled out according to your simulation
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Funding
+ 
+This work was supported by the National Science Centre, Poland, under grant no. 2022/45/N/NZ9/02130
+ 
+
 
 # The methodology and general description you can find in the article: 
 
@@ -128,9 +133,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
  
  ### M. Rzycki, M. Gladysiewicz-Kudrawiec, S. Kraszewski, *Molecular guidelines for promising antimicrobial agents.* Sci Rep 14, 4641 (2024).
 
- ##Funding
- 
- This work was supported by the National Science Centre, Poland, under grant no. 2022/45/N/NZ9/02130
  
  ---
 

@@ -127,8 +127,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
  ### M. Rzycki, S. Kraszewski, M. Gladysiewicz-Kudrawiec, *Diptool a novel numerical tool for membrane interactions analysis, applying to antimicrobial detergents and drug delivery aids.* Materials 2021, 14, 6455. 
  
  ### M. Rzycki, M. Gladysiewicz-Kudrawiec, S. Kraszewski, *Molecular guidelines for promising antimicrobial agents.* Sci Rep 14, 4641 (2024).
+
+ ##Funding
+ 
+ This work was supported by the National Science Centre, Poland, under grant no. 2022/45/N/NZ9/02130
  
  ---
 
- This work was supported by the National Science Centre, Poland, under grant no. 2022/45/N/NZ9/02130
+
 
